@@ -1,3 +1,4 @@
+<!-- Not complete -->
 <template>
   <Enemy
     name="AT <The Strategist>"
@@ -6,11 +7,11 @@
     risk="II"
     description="A silver-haired sword master."
     :intel="[
-      `A vassal to Miyahebi Syuu originally named Takenaka Hiromoto, voluntarily bounded with a Visbane out of loyalty to Syuu's cause for revenge.`,
-      'Replying his astonishing force of will transform into a Visbane, his fully retained his capacity for thought and speech.' +
+      `A vassal to Miyahebi Syuu originally named Takenaka Hiromoto, he voluntarily bounded with a Visbane out of loyalty to Syuu's cause for revenge.`,
+      'Replying his astonishing force of will to transform into a Visbane, he fully retained his capacity for thought and speech.' +
         '<br />' +
         ' A pair of special artificial hands allow him to wield multiple spirit blades with swordplay so precise and fierce that his opponent would have to be lucky to defend against them.',
-      'He also possesses frightening wisdom and resourcefulness, able to deliver attacks from different angles and using method that, both furtive and bizarre prove staggeringly difficult to defend against.',
+      'He also possesses frightening wisdom and resourcefulness, able to deliver attacks from different angles and using method that, both furtive and bizarre, prove staggeringly difficult to defend against.',
     ]"
     :skills="[
       {
