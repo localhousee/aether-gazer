@@ -7,7 +7,7 @@
     description="A humanoid Visbane that appears at the Miyahebi family at home. Beware of its dexterous and agile attacks."
     :intel="[
       'The gradual maturation of this technology allowed it to retain a large portion of its former capacity for thought following the combination.',
-      'Once a guard for the Miyahebi family, it continues to loyally protect them even after becoming a Viisbane.',
+      'Once a guard for the Miyahebi family, it continues to loyally protect them even after becoming a Visbane.',
       'It wields two swords as weapons and never shows mercy to intruders.',
     ]"
     :skills="[
