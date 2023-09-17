@@ -23,7 +23,7 @@
       },
       {
         name: 'Phantom',
-        description: `The Metabane releases a phantom doppelganger to hamper the enemy's judgment. The phantom will reply on their own instincts to attack the enemy.`,
+        description: `The Metabane releases a phantom doppelganger to hamper the enemy's judgment. The phantom will rely on their own instincts to attack the enemy.`,
       },
     ]"
   />
