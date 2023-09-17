@@ -12,7 +12,7 @@
     ]"
     :skills="[
       {
-        name: 'Coere',
+        name: 'Coerce',
         description:
           'The Warbane charges up its power, then thrusts its heavy sword forward in a mid-range stabbing attack.',
       },
