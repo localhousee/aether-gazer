@@ -7,7 +7,7 @@
     description="A Primal Type Visbane formed from the combination of a Formisane and Wingbane."
     :intel="[
       'Its appetite for destruction and methods of attack are even stronger.',
-      'Possessing flying abilities ever stronger than that if a Wingbane as well as high mobility, it will use its powerful claws to destroy everything within its sights.',
+      'Possessing flying abilities ever stronger than that of a Wingbane as well as high mobility, it will use its powerful claws to destroy everything within its sights.',
       `While they are not many Aphixbanes, together they are capable of tearing open channels through Gaea's layers.`,
     ]"
     :skills="[
