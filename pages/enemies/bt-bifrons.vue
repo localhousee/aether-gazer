@@ -22,7 +22,7 @@ const intel = [
           'Bifrons charges up energy then releases it as a forward punch, its differentiated arms generating considerable force.',
       },
       {
-        name: 'Bane Energy Pluse',
+        name: 'Bane Energy Pulse',
         description: `Bifrons's arms create an an impact that releases two high-energy pulses, dealing heavy blows to distant enemies.`,
       },
       {
