@@ -11,7 +11,7 @@
       'He too accepted being transformed into a Visbane, however he lost so much of his capacity for thought and speech due to his overly intense mood swings.' +
         '<br>' +
         'Taller and sturdier than the average humanoid Visbane, his heavy sword and use of vicious Visbanian dogs in battle make him resemble a wrathful god.',
-      `This loyal general continued to guard the gates of the Miyahebi family manor to this day --- there's just nothing else that he wishes to protect.`,
+      `This loyal general continued to guard the gates of the Miyahebi family manor to this day - there's just nothing else that he wishes to protect.`,
     ]"
     :skills="[
       {

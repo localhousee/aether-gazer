@@ -10,7 +10,7 @@
         '<br>' +
         'However, a fire four years ago not only robbed him of his right arm, but his peaceful life with the Miyahebi family as well.',
       'The Painter, who once refused the transformation, now uses this body to endlessly render scene after scene of the past.',
-      'No one knows the true meaning behind this deranged performance --- Perhaps one can only truly understand him by battling him in his Painted World.',
+      'No one knows the true meaning behind this deranged performance - Perhaps one can only truly understand him by battling him in his Painted World.',
     ]"
     :skills="[
       {
