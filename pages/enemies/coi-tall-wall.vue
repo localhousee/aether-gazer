@@ -1,10 +1,3 @@
-<script setup>
-const intel = [
-  `Iron Security members were predominately selected directly from the Former Children of Iron union. The most outstanding and strongest among them are personally appointed by Ethan as squad leader's and given the tittle "High Wall".`,
-  "Each High Wall leads a security squad of several people. While their combat qualifications may vary, the unity amongst them is undeniable.",
-  "With their powerful physiques and elite-standard heavy armor, High Walls can hold their own in combat extremely capably as well as act as a strong shield for their squad.",
-];
-</script>
 <template>
   <Enemy
     name="COI <Tall Wall>"
@@ -12,7 +5,11 @@ const intel = [
     type="Humanoid"
     risk="II"
     description="A heavy-duty armed security force standing at two meters tall and boasting formidable combat power."
-    :intel="intel"
+    :intel="[
+      `Iron Security members were predominately selected directly from the Former Children of Iron union. The most outstanding and strongest among them are personally appointed by Ethan as squad leader's and given the tittle &quot;High Wall&quot.`,
+      'Each High Wall leads a security squad of several people. While their combat qualifications may vary, the unity amongst them is undeniable.',
+      'With their powerful physiques and elite-standard heavy armor, High Walls can hold their own in combat extremely capably as well as act as a strong shield for their squad.',
+    ]"
     :skills="[
       {
         name: 'Reload Blaze',

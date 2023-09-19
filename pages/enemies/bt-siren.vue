@@ -1,13 +1,10 @@
-<script setup lang="ts">
-const description = `A Behemoth Type Visbane that appears near the Peripheral Sea, this is the true form of the "demoness" often spotted at sea. He hides his massive form under the ocean's surface, where it quietly observes everything that happens there.`;
-</script>
 <template>
   <Enemy
     name="BT <Siren>"
     image="bt-siren.jpg"
     type="Visbanes"
     risk="III"
-    :description="description"
+    :description="`A Behemoth Type Visbane that appears near the Peripheral Sea, this is the true form of the &quot;demoness&quot; often spotted at sea. He hides his massive form under the ocean's surface, where it quietly observes everything that happens there.`"
     :intel="[
       'Capable of manipulating the ocean currents and the controlling storms, it can rapidly move around the ocean, despite his large body.',
       'He can tamper with the reality of the Surface Layer by corrupting the data of the Source Layer, forming illusory bubble worlds. The space contained within these bubble worlds disappears as soon as they burst.',
