@@ -6,10 +6,10 @@
     risk="III"
     description="A humanoid Visbane that appears at the Miyahebi family at home, her specialty is paralyzing the enemy with her beautiful singing voice. She can often be seen accompanied by a whale."
     :intel="[
-      'A young woman originally named Kurimoto Aoi who was fostered by the Mayahebi family and took over as their ceremonial Utahime.' +
+      'A young woman originally named Kurimoto Aoi who was fostered by the Miyahebi family and took over as their ceremonial Utahime.' +
         '<br>' +
-        'She lost her exquisite voice in a five four years ago and has not been able to sing again since summoning the snake god.',
-      `She accepted the Visbane transformation in order to remain at Miyahebi Syuu's side, but lost her capacity for thought as well as the majorly of her memories as a result.`,
+        'She lost her exquisite voice in a fire four years ago and has not been able to sing again since summoning the snake god.',
+      `She accepted the Visbane transformation in order to remain at Miyahebi Syuu's side, but lost her capacity for thought as well as the majority of her memories as a result.`,
       'While the transformation enabled her to sing beautiful songs again, she no longer has the ability to speak her heart to the people she so dearly loved.',
     ]"
     :skills="[
