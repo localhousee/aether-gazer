@@ -6,15 +6,15 @@
     risk="II"
     description="A Polymerized Type variant enveloped in filth and decay, it releases a intense, foul form of Bane Energy that erodes its enemy's willpower."
     :intel="[
-      'A Visbane that appears in Yggdrasil ruins, energy from the Ge-zone ruins gave rise to this mutation.',
-      `Formed by a certain number of Encroacher Types from the ruins, it possesses absolute authority over the Gen-zone's Encroacher Types, its white bones have turned to gray chalk, symbolizing the end of life and enteral vanishing.`,
-      'Able to adeptly utilize energy from the ruins, it also possesses and advance capacity for thought, making it an enormous threat. Covetous of the item imprint Power gathered here, it poses the greatest obstacle for Modifiers attempting to explore the Gen-zone ruins.',
+      'A Visbane variant that appears in Yggdrasill ruins, energy from the Gen-zone ruins gave rise to this mutation.',
+      `Formed by a certain number of Encroacher Types from the ruins, it possesses absolute authority over the Gen-zone's Encroacher Types, A foul fluid has muddied its entire body, turning it into an agent of malice that erodes at the great tree.`,
+      'Able to adeptly utilize energy from the ruins, it also possesses an advanced capacity for thought, making it an enormous threat. Covetous of the item Imprint Power gathered here, it poses the greatest obstacle to Modifiers attempting to explore the Gen-zone ruins.',
     ]"
     :skills="[
       {
         name: 'Corrosive Missile',
         description:
-          'Fires six missiles in a forward fan-shaped range, dealing damage to the area in range.',
+          'Fires six missiles in a forward fan-shaped range, dealing damage to the enemies in range.',
       },
       {
         name: 'Stab of Terror',
