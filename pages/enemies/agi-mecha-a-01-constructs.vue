@@ -8,17 +8,17 @@
     :intel="[
       'Where it was once three types of basic AGI Mecha rather lacking in combat strength, combining them led to a fundamental change.',
       'The maneuverability of the forklift, the close-ranged combat capabilities of the chainsaw, and the ranged output of the welding torch are each perfectly showcased in the assemblage.',
-      'This reciprocal combination method was reportedly derived from the technology of a far-flung civilization. The engineers that designed these three basic AGI Mechas never would have imaged that they could take this form.',
+      'This reciprocal combination method was reportedly derived from the technology of a far-flung civilization. The engineers that designed these three basic AGI Mechas never would have imagined that they could take this form.',
     ]"
     :skills="[
       {
         name: 'Seismic Bombardment',
         description:
-          'Leaps back and smashes into the ground before spinning its saw arms in a high-speed attack.',
+          'Leaps back and smashes into the ground before spinning its saw arm in a high-speed attack.',
       },
       {
         name: 'Formation Breaker',
-        description: 'Charges power up and breaks into a long-distance dash.',
+        description: 'Charges up power then breaks into a long-distance dash.',
       },
       {
         name: 'Cohesion Shield',
