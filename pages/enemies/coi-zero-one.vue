@@ -7,7 +7,7 @@
     description="An icy assassin who excels at stealth-based combat."
     :intel="[
       'Her true name unknown, Zero One is the codename of the mysterious woman who shares the roles of second in command with Olheim.',
-      `Ethan, she was transformed and all of her memories of the past were erased. She has remained with the Children of Iron because of Ethan's promise.`,
+      `Like Ethan, she was transformed and all of her memories of the past were erased. She has remained with the Children of Iron because of Ethan's promise.`,
       'Highly capable, she excels at whipping up all manner of traps, so her opponents need to watch their step when going toe-to-toe with her.',
     ]"
     :skills="[
@@ -23,7 +23,7 @@
       {
         name: 'Flickering Blades',
         description:
-          'Zero One launchers two waves of blade attacks that deal damage to enemies in their path.',
+          'Zero One launches two waves of blade attacks that deal damage to enemies in their path.',
       },
     ]"
   />
