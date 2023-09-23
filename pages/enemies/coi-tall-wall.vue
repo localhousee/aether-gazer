@@ -6,7 +6,7 @@
     risk="II"
     description="A heavy-duty armed security force standing at two meters tall and boasting formidable combat power."
     :intel="[
-      `Iron Security members were predominately selected directly from the Former Children of Iron union. The most outstanding and strongest among them are personally appointed by Ethan as squad leader's and given the tittle &quot;High Wall&quot.`,
+      'Iron Security members were predominately selected directly from the former Children of Iron union. The most outstanding and strongest among them are personally appointed by Ethan as squad leaders and given the title &quot;High Wall&quot.',
       'Each High Wall leads a security squad of several people. While their combat qualifications may vary, the unity amongst them is undeniable.',
       'With their powerful physiques and elite-standard heavy armor, High Walls can hold their own in combat extremely capably as well as act as a strong shield for their squad.',
     ]"
@@ -14,7 +14,7 @@
       {
         name: 'Reload Blaze',
         description:
-          'High Wall leaps near an enemy and deal AoE damage, then opens fire on enemies ahead with a heavy-duty flamethrower.',
+          'High Wall leaps near an enemy and deals AoE damage, then opens fire on enemies ahead with a heavy-duty flamethrower.',
       },
       {
         name: 'Clean Sweeper',
