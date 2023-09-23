@@ -21,7 +21,7 @@
       },
       {
         name: 'Rough Thwack',
-        description: 'Roughly swings a riffle at an enemy.',
+        description: 'Roughly swings a rifle at an enemy.',
       },
     ]"
   />
