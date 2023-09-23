@@ -14,7 +14,7 @@
       {
         name: 'Soaring Stab',
         description:
-          'Kursherfang vigorously leaps toward an enemy, lurking at them with its spear in three consecutive attack.',
+          'Kursherfang vigorously leaps toward an enemy, lunging at them with its spear in three consecutive attacks.',
       },
       {
         name: 'Looping Swiftstrike',
@@ -25,6 +25,11 @@
         name: 'Ton Drop',
         description:
           'Kursherfang leaps up high them falls to the ground, dealing AoE damage to enemies.',
+      },
+      {
+        name: 'Meteor of Misery',
+        description:
+          'Kursherfang thrusts its spear into the ground, injecting it with astonishing amounts of energy before detonating it.',
       },
     ]"
   />
