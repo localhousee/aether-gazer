@@ -6,7 +6,7 @@
     risk="I"
     description="The star of the production line, its solid body is outfitted with a variety of tools."
     :intel="[
-      'The Glory AGI Mecha comes loaded with a variety of equipment used in industrial production.Its sturdy form allows it to undertake all sort pf onerous tasks.',
+      'The Glory AGI Mecha comes loaded with a variety of equipment used in industrial production. Its sturdy form allows it to undertake all sort of onerous tasks.',
       'Its relatively strong torso and limbs allow it to carry out grueling production work.',
       'They come equipped with different arms according to their specific model, such as cutting saws or electric drills...',
     ]"
