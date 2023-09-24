@@ -17,6 +17,14 @@ const links = ref([
     children: filteredEnemies,
   },
 ]);
+
+function parseUrl(item: string) {
+  return item                   // Some Random <Name - Type>
+    .toLowerCase()              // some random <name - type>
+    .replace(/[^\w\s-]/g, "")   // some random name - type
+    .replace(/\s+/g, "-")       // some-random-name---type
+    .replace("---", "-");       // some-random-name-type
+}
 </script>
 <template>
   <div
@@ -91,10 +99,7 @@ const links = ref([
                 v-for="i in item.children"
                 @click="isOpen = false"
                 :key="i"
-                :to="`/${item.label.toLowerCase()}/${i
-                  .toLowerCase()
-                  .replace(/[^\w\s-]/g, '')
-                  .replace(/\s+/g, '-')}`"
+                :to="`/${item.label.toLowerCase()}/${parseUrl(i)}`"
                 class="w-full py-1 px-2 tracking-wide text-primary-900 hover:bg-primary-100 hover:text-primary-800 dark:text-primary-200 dark:hover:text-primary-100 dark:hover:bg-primary-500 rounded-md"
                 v-text="i"
               />
