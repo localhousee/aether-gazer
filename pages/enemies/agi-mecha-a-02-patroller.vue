@@ -13,13 +13,11 @@
     :skills="[
       {
         name: 'Rapid Laser Fire',
-        description:
-          'Quick fires lasers at enemies ahead.',
+        description: 'Quick fires lasers at enemies ahead.',
       },
       {
         name: 'Floating Artillery Strike',
-        description:
-          'Charges up a laser cannon and fires at enemies ahead.',
+        description: 'Charges up a laser cannon and fires at enemies ahead.',
       },
     ]"
   />
