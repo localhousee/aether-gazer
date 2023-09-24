@@ -7,7 +7,7 @@
     description="Flexible and fleet-footed, it comes equipped with a weaponized laser device."
     :intel="[
       `Even after launch of the A-06 <Glory> AGI Mecha, the A-03 Popper's low energy consumption and high precision keeps it in production.`,
-      'Owing to the division of production tasks, a portion of the Popper model AGI mechas are equipped with laser weapons for use in regular caretaking of the factory interior.',
+      'Owing to the division of production tasks, a portion of the Popper model AGI Mechas are equipped with laser weapons for use in regular caretaking of the factory interior.',
       'They often leisurely wander around the factory floor, surveying the work being carried out in each workshop.',
     ]"
     :skills="[
