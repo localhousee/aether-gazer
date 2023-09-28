@@ -1,5 +1,6 @@
 <script setup lang="ts">
 import enemies from "../data/enemies";
+import functors from "../data/functors";
 const search = ref("");
 const isOpen = ref(false);
 
@@ -11,10 +12,22 @@ const filteredEnemies = computed(() =>
       )
 );
 
+const filteredFunctors = computed(() =>
+  search.value === ""
+    ? functors
+    : functors.filter((i) =>
+        i.toLowerCase().includes(search.value.toLowerCase())
+      )
+);
+
 const links = ref([
   {
     label: "Enemies",
     children: filteredEnemies,
+  },
+  {
+    label: "Functors",
+    children: filteredFunctors,
   },
 ]);
 
